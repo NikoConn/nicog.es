@@ -1,0 +1,11 @@
+.personal-image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.personal-image {
+    border: 5px solid black;
+    width: 100%;
+    max-width: 25vh;
+}

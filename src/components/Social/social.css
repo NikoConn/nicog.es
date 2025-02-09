@@ -1,0 +1,28 @@
+.social-container {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  width: 100%;
+}
+
+.social-icon {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 5px;
+  text-decoration: none;
+  color: inherit;
+}
+
+.download-button {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  cursor: pointer;
+}
+
+@media print {
+  .download-button {
+    display: none !important;
+  }
+}

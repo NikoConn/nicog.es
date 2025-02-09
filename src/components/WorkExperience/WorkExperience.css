@@ -1,0 +1,55 @@
+.work-experience-container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    gap: 25px;
+}
+
+.company-icon {
+    width: 50px;
+    height: 50px;
+}
+
+.work-experience-item {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+}
+
+.company {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+
+    text-decoration: none;
+    color: inherit;
+}
+
+.company-text{
+    font-weight: bold;
+}
+
+.position-text{
+    /* max-width: 80vw; */
+}
+
+.duration-text {
+    color: gray;
+    text-align: justify;
+
+}
+
+.role-description {
+
+}
+
+.work-experience-text-container {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    /* max-width: 500px; */
+
+}

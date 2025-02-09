@@ -1,0 +1,24 @@
+.publications-container {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    align-items: center;
+    justify-content: center;
+}
+
+.publication-item {
+    text-decoration: none;
+    color: inherit;
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
+
+.publication-year {
+    margin-left: .5em;
+    color: gray;
+}
+
+.publication-journal {
+    font-weight: bold;
+}

@@ -1,0 +1,30 @@
+.studies-container {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    gap: 25px;
+}
+
+.study-item {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 5px;
+    text-decoration: none;
+    color: inherit;
+}
+
+.study-item img {
+    width: 75px;
+    height: 75px;
+    
+}
+
+.study-text-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.school {
+    font-weight: bold;
+}

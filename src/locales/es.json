@@ -1,0 +1,19 @@
+{
+    "description": "Actualmente soy técnico de investigación y desarrollo en ITI, con sede en 🌇 Valencia. Trabajo en algunos proyectos paralelos, navegando 🚢 entre el equilibrio del trabajo ⚙️ y la conquista de fascinantes desafíos de código 🧑‍💻.",
+    "title-description": "Ingeniero de software y visión por computador",
+    "work-experience": "Experiencia Laboral",
+    "iti-job-title": "Técnico de investigación y desarrollo",
+    "iti-job-description": "- Parte del equipo de investigación Zero Gravity.\n- Investigador técnico desarrollando soluciones de alta tecnología que incluyen sistemas de inspección visual mediante inteligencia artificial (IA).\n- Colaborar con equipos multidisciplinarios para integrar sistemas de inspección visual en productos y procesos existentes.\n- Redactar informes técnicos y documentos para comunicar hallazgos y recomendaciones a las partes interesadas.\n- Participar en conferencias y eventos de la industria para establecer contactos y conocer nuevas tecnologías y tendencias de investigación.",
+    "iti-duration": "oct. 2021 - presente",
+    "dial-job-description": "- Desarrollo de software full stack en DialApplet utilizando PostgreSQL como motor de base de datos, PHP, Javascript, jQuery, HTML5 y CSS3 para el frontend web, y C++ y Qt para el backend.\n - Gestionar y mantener el sistema Linux de DialApplet.\n - Colaborar con equipos multidisciplinarios para garantizar la integración y funcionalidad del software.\n - Identificar y solucionar problemas y errores de software.\n - Participar en revisiones de código y proporcionar orientación a los miembros junior del equipo.\n - Contribuir a la mejora continua de los procesos de desarrollo de software en DialApplet.",
+    "dial-duration": "oct. 2020 - oct. 2021",
+    "dial-job-title": "Ingeniero de software",
+    "projects": "Proyectos",
+    "extra-dimension-description": "Extra-Dimension es un proyecto que combina un proyector y múltiples cámaras para crear interfaces interactivas a escala real a través de una calibración sencilla, controladas mediante gestos de la mano. Se aplica en proyectos como patronaje y juegos interactivos, ofreciendo diversas posibilidades para múltiples aplicaciones.",
+    "collimator-description": "Collimator es un software para la fácil colimación de telescopios en Linux. Proporciona una interfaz intuitiva que guía a los usuarios en el proceso de alineación de los componentes ópticos del telescopio para un rendimiento óptimo. Con retroalimentación en tiempo real, Collimator simplifica los ajustes del lente del telescopio, asegurando observaciones astronómicas más claras y nítidas.",
+    "publications": "Publicaciones",
+    "studies": "Estudios",
+    "upv": "Universidad Politécnica de Valencia",
+    "miarfid": "Máster en Inteligencia Artificial, Reconocimiento de Formas e Imagen Digital.",
+    "inf": "Grado en Ingeniería Informática. Especialización en ingeniería de software."
+}
