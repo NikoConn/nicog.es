@@ -24,6 +24,18 @@ function Projects() {
           description={t("collimator-description")}
           link={"https://github.com/NikoConn/collimator"}
         />
+        <Project
+          imageUrl={"/images/spotify-stl-generator.png"}
+          projectName={"Spotify 3D generator"}
+          description={t("spotify-stl-generator-description")}
+          link={"https://github.com/NikoConn/spotify-stl-generator"}
+        />
+        <Project
+          imageUrl={"/images/tree-game.png"}
+          projectName={"Tree Game"}
+          description={t("tree-game-description")}
+          link={"https://nikoconn.github.io/tree-game"}
+        />
       </div>
     </div>
   );
