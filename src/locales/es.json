@@ -10,6 +10,8 @@
     "dial-job-title": "Ingeniero de software",
     "projects": "Proyectos",
     "collimator-description": "Collimator es un software para la fácil colimación de telescopios en Linux. Proporciona una interfaz intuitiva que guía a los usuarios en el proceso de alineación de los componentes ópticos del telescopio para un rendimiento óptimo. Con retroalimentación en tiempo real, Collimator simplifica los ajustes del lente del telescopio, asegurando observaciones astronómicas más claras y nítidas.",
+    "spotify-stl-generator-description": "Este programa genera objetos STL que pueden utilizarse para imprimir códigos de Spotify en 3D en múltiples colores.",
+    "tree-game-description": "Un juego web basado en ubicación donde los jugadores buscan e identifican árboles en su proximidad usando geolocalización. El juego desafía a los usuarios a encontrar especies específicas de árboles dentro de un radio de 500 metros de su ubicación actual.",
     "publications": "Publicaciones",
     "studies": "Estudios",
     "upv": "Universidad Politécnica de Valencia",
