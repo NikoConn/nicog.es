@@ -19,11 +19,6 @@ function Projects() {
       <h1 className="title">{t("projects")}</h1>
       <div className="projects-container">
         <Project
-          imageUrl={"/images/extra-dimension.png"}
-          // projectName={"Extra Dimension"}
-          description={t("extra-dimension-description")}
-        />
-        <Project
           imageUrl={"/images/collimator.png"}
           projectName={"Collimator"}
           description={t("collimator-description")}
