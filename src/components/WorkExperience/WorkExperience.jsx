@@ -38,7 +38,6 @@ function WorkExperience() {
   const  { t } = useTranslation();
   return (
     <div className="work-experience-container">
-      <h1 className="title">{t("work-experience")}</h1>
       <WorkExperienceItem
         company="ITI - Instituto Tecnológico de Informática"
         logo="/images/iti.jpeg"

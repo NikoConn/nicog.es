@@ -1,25 +1,37 @@
 .publications-container {
-    display: flex;
-    flex-direction: column;
-    gap: 15px;
-    align-items: center;
-    justify-content: center;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
 }
 
 .publication-item {
-    text-decoration: none;
-    color: inherit;
-    display: flex;
-    flex-direction: column;
-    gap: 2px;
-    width: 100%;
+  text-decoration: none;
+  color: inherit;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  width: 100%;
+}
+
+.publication-info {
+  display: flex;
+  flex-direction: row;
+  align-items: baseline;
+  gap: 6px;
 }
 
 .publication-year {
-    margin-left: .5em;
-    color: gray;
+  font-size: 0.8rem;
+  color: #7a7060;
 }
 
 .publication-journal {
-    font-weight: bold;
+  font-weight: 600;
+  font-size: 0.9rem;
+}
+
+.publication-item > div:last-child {
+  font-size: 0.875rem;
+  color: #3a3428;
+  line-height: 1.45;
 }

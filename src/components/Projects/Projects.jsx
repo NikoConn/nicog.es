@@ -4,9 +4,11 @@ import "./projects.css";
 function Project({ imageUrl, projectName, description, link }) {
   return (
     <a href={link} target="_blank" className="project-item">
-        <img src={imageUrl} />
+      <img src={imageUrl} alt={projectName} />
+      <div className="project-text">
         <div className="project-name">{projectName}</div>
-      <div>{description}</div>
+        <div className="project-description">{description}</div>
+      </div>
     </a>
   );
 }
@@ -16,7 +18,6 @@ function Projects() {
 
   return (
     <div>
-      <h1 className="title">{t("projects")}</h1>
       <div className="projects-container">
         <Project
           imageUrl={"/images/collimator.png"}

@@ -18,7 +18,6 @@ function Studies() {
 
   return (
     <div className="studies-container">
-      <h1 className="title">{t("studies")}</h1>
       <StudyItem
         imageUrl={"/images/upv.jpeg"}
         school={t("upv")}

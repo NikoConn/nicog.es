@@ -1,5 +1,5 @@
 {
-    "description": "Actualmente soy técnico de investigación y desarrollo en ITI, con sede en 🌇 Valencia. Trabajo en algunos proyectos paralelos, navegando 🚢 entre el equilibrio del trabajo ⚙️ y la conquista de fascinantes desafíos de código 🧑‍💻.",
+    "description": "Actualmente soy técnico de investigación y desarrollo en ITI, con sede en Valencia. Trabajo en algunos proyectos paralelos, navegando entre el equilibrio del trabajo y la conquista de fascinantes desafíos de código.",
     "title-description": "Ingeniero de software y visión por computador",
     "work-experience": "Experiencia Laboral",
     "iti-job-title": "Técnico de investigación y desarrollo",
@@ -9,6 +9,8 @@
     "dial-duration": "oct. 2020 - oct. 2021",
     "dial-job-title": "Ingeniero de software",
     "projects": "Proyectos",
+    "puroticket-description": "Plataforma de venta de entradas online para eventos. Personaliza tickets, controla el aforo con códigos QR y recibe pagos seguros.",
+    "aiscopia-description": "Plataforma integrada de patología digital que conecta equipos de patología, optimiza el flujo de trabajo de biopsias y ofrece insights basados en IA para diagnósticos de cáncer más rápidos y precisos.",
     "collimator-description": "Collimator es un software para la fácil colimación de telescopios en Linux. Proporciona una interfaz intuitiva que guía a los usuarios en el proceso de alineación de los componentes ópticos del telescopio para un rendimiento óptimo. Con retroalimentación en tiempo real, Collimator simplifica los ajustes del lente del telescopio, asegurando observaciones astronómicas más claras y nítidas.",
     "spotify-stl-generator-description": "Este programa genera objetos STL que pueden utilizarse para imprimir códigos de Spotify en 3D en múltiples colores.",
     "tree-game-description": "Un juego web basado en ubicación donde los jugadores buscan e identifican árboles en su proximidad usando geolocalización. El juego desafía a los usuarios a encontrar especies específicas de árboles dentro de un radio de 500 metros de su ubicación actual.",

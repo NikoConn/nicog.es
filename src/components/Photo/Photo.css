@@ -1,11 +1,13 @@
 .personal-image-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .personal-image {
-    border: 5px solid black;
-    width: 100%;
-    max-width: 25vh;
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 4px;
+  box-shadow: 0 2px 8px rgba(40,33,22,.18);
 }

@@ -1,15 +1,30 @@
 .name {
-    font-weight: bold;
+  font-size: 1.7rem;
+  font-weight: 700;
+  line-height: 1.1;
+  color: #1a1813;
+}
+
+.title-role {
+  font-size: 0.95rem;
+  color: #6b6050;
+  margin-top: 2px;
 }
 
 .description-container {
-    display: flex;
-    flex-direction: column;
-    align-items: "start";
-    margin-top: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
 }
 
 .description-container a {
-    text-decoration: none;
-    color: inherit;
+  text-decoration: none;
+  color: inherit;
+}
+
+.description-body {
+  font-size: 0.92rem;
+  line-height: 1.55;
+  color: #3a3428;
+  margin: 8px 0 0;
 }
